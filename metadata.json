@@ -1,0 +1,8 @@
+{
+  "name": "Remix FloraCare AI - Plant Identifier \u0026 Care Assistant",
+  "description": "Smart plant identification from photos, deep botanical care instructions, disease diagnosis, and multi-turn expert AI gardening chat powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
